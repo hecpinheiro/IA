@@ -1,0 +1,7 @@
+Fadiga,Dor_de_cabeça,Dores_no_corpo,Ocasionais_dores_garganta,Ocasionais_tosse,Garganta_inflamada,Tosse,Cansaço,Pulsação_elevada,Baixo_nível_de_oxigênio,Perda_de_olfato,Perda_de_paladar,Diagnostico
+1,1,1,1,1,0,0,0,0,0,0,0,COVID
+0,1,0,0,0,1,1,0,0,0,0,0,GRIPE
+0,1,0,0,0,0,0,1,0,0,0,0,MONONUCLEOSE INFECCIOSA
+0,0,0,0,0,1,0,1,0,0,0,0,AMIGDALITE
+0,0,0,0,0,0,0,1,0,0,0,0,ESTRESSE
+1,1,0,0,0,0,0,0,1,1,1,1,COVID
